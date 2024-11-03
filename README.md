@@ -35,20 +35,17 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** Python
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
+## What factors play significant roles during yact pricing? :motor_boat:
+### Fall Semester of 2022 - Coursework Project
+**Description:** The task involved analyzing yacht and motorboat pricing using the "yacht_pricing" dataset. The goal was to predict the price in euros based on various characteristics, including boat type, year built, condition, dimensions (length, width, depth), displacement, number of cabins and beds, fuel capacity, engine hours, and recent views. This analysis aimed to determine which factors significantly impact yacht prices, adjusting the model to address multicollinearity issues, and refining it through diagnostic tests and specification adjustments.
+
+**Methodologies:** Exploratory Data Analysis, Ordinary Least Squares (OLS) Regression, Model Diagnostics and Specification Adjustments
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Coursework-Yacht-Pricing)
 
 
 
-<!--
-**WizzX7/WizzX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
