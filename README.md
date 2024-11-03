@@ -7,13 +7,13 @@ The projects in my portfolio can be classified into five groups:
 
 :page_facing_up: **Research:** Universities in Hungary have a renowned scientific event called Scientific Students’ Associations Conference (SSA, or TDK in Hungarian). It is an annual contest that offers an open platform for the works of students seeking to gain academic knowledge beyond the regular curriculum. Basically, your task is writing a research paper in an academic quality, then - if you are selected - you have to present your work to a professional jury. Thanks to this opportunity, I could conduct more quantitative research, which of course required coding as well.
 
-:school: **Coursework:** During my academic years, I took several courses that taught me how to analyze data and write scripts in various programming languages. This experience allowed me to deepen my knowledge across multiple subjects and programming tools.
+:school: **Coursework:** During my academic years, I took several courses that taught me how to analyze data and write scripts in various programming languages. I had to work on these projects either by myself or with a group of other students. That is why it taught me not only hard skills but also communication and presentation skills.
 
-:trophy: **Competitions:**
+:trophy: **Competitions:** Participating in data science competitions has been a cornerstone of my learning journey. These challenged me to apply theoretical knowledge in real-world scenarios under tight deadlines. Through these experiences, I refined my coding, problem-solving, and teamwork skills. Each competition taught me new techniques, from algorithm optimization to innovative data visualization approaches, further enhancing my analytical toolkit.
 
-:briefcase: **Work:**
+:briefcase: **Work:** Working as a Junior Stock Market Analyst at MBH Investment Bank is instrumental in my data science journey. My role involves developing foreign exchange forecast models, analyzing stocks using fundamental and machine learning approaches, and creating data-driven insights for the banking sector. Each project allows me to apply and expand my programming and data analysis skills, giving me hands-on experience in financial modeling and strategic decision-making.
 
-:bulb: **Personal:**
+:bulb: **Personal:** Outside formal settings, I enjoy exploring data science through personal projects. These often focus on topics that spark my curiosity as well as my creativity. These self-directed projects allow me to experiment with new methods and tools, further building my expertise in data science and quantitative analysis.
 
 
 # My Projects
