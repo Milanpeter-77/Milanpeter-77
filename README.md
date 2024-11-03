@@ -19,9 +19,9 @@ The projects in my portfolio can be classified into five groups:
 # My Projects
 ## How would you forecast the effects of climate change on agricultural businesses? :corn:
 ### April of 2023 - Competition Project
-**Description:**
+**Description:** The task involved supporting an American credit institution in assessing the climate risk of its agricultural investments by predicting crop yields in Minnesota. Our objective was to develop a model that forecasts potential losses in productivity due to climate change, focusing on three crops: corn, oats, and soybeans. We utilized historical crop yield and weather data, aggregated and cleaned the datasets, and built several linear multivariate OLS regression models of increasing complexity. The final model selected was a transformed linear regression, which provided reliable predictions of future crop yields, enabling the bank to make informed decisions regarding loan risk assessments.
 
-**Methodologies:** Linear Regression
+**Methodologies:** Data Understanding and Preparation (crop yield and weather data), Geospatial Data, Multiple Linear Multivariate OLS Regression Models, Model Evaluation, Prediction and Forecasting
 
 **Languages:** R
 
