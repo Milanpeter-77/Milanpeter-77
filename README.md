@@ -26,11 +26,11 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** R
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challange)
-## How would you assess which contract? :car:
+## What Drives Car Insurance Offer Conversions? :car:
 ### Fall Semester of 2023 - Competition/Coursework Project
-**Description:**
+**Description:** In this analysis, the task was to identify the characteristics of car insurance offers that are most likely to be converted into contracts for AXA Belgium. This involved analyzing a dataset of 44,928 observations and 22 variables related to customer, car, and broker characteristics. The goal was to develop a predictive model that could predict the probability of conversion, providing insights to improve the offers and enhance conversion rates through better understanding of customer profiles and offer characteristics.
 
-**Methodologies:** Machine Learning
+**Methodologies:** Machine Learning, Data Preprocessing, Model Selection and Evaluation (Logistic Regression, Decision Trees, Random Forests), Cross-Validation
 
 **Languages:** Python
 
