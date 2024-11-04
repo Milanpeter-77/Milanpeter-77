@@ -35,6 +35,15 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** Python
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
+## What makes the 2022 tech layoffs different? :technologist:
+### Spring Semester of 2023 - Research/Competition Project
+**Description:** In this study, we examined the effect of companies’ layoff announcements on the stock market via the event study methodology. We also analysed the market reaction differences between tech and non-tech sectors. We found that, despite adverse market conditions, the stocks of the companies that laid off workers had positive cumulated average abnormal returns. We also find a statistically significant difference between the stock market reaction of the tech and the non-tech sectors. We concluded that layoffs can result in positive abnormal returns for a company’s stock given that it has a cost-efficiency-enhancing purpose, and it can also vary depending on the human resource necessity of the given industry the company is functioning in.
+
+**Methodologies:** Event Study Analysis, Event and Estimation Windows, Abnormal Return Calculation, Statistical Testing
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Mass-Layoffs-Event-Study)
 ## What factors play significant roles during yact pricing? :motor_boat:
 ### Fall Semester of 2022 - Coursework Project
 **Description:** The task involved analyzing yacht and motorboat pricing using the "yacht_pricing" dataset. The goal was to predict the price in euros based on various characteristics, including boat type, year built, condition, dimensions (length, width, depth), displacement, number of cabins and beds, fuel capacity, engine hours, and recent views. This analysis aimed to determine which factors significantly impact yacht prices, adjusting the model to address multicollinearity issues, and refining it through diagnostic tests and specification adjustments.
