@@ -35,6 +35,15 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** Python
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
+## Do Monetary Policy Decisions Significantly Influence the Hungarian Forint Exchange Rate? :bank:
+### Spring Semester of 2023 - Research Project
+**Description:** My thesis investigates how monetary policy decisions by the National Bank of Hungary (MNB) influence the exchange rate of the Hungarian forint, especially in the short term. Following the end of the MNB’s extensive tightening cycle in 2022, the forint fell sharply, sparking public and media attention. This piqued my curiosity, motivating me to explore whether such monetary interventions have a significant effect on the exchange rate. My findings reveal that, in the short term, monetary policy decisions do not significantly impact the exchange rate, supporting my hypothesis. This conclusion aligns with existing literature, suggesting that factors beyond monetary policy also play a role in influencing the forint’s value.
+
+**Methodologies:** Vector Autoregression (VAR) Models, Statistical Hypothesis Testing (t-tests), Monetary Transmission Mechanism
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
 ## What makes the 2022 tech layoffs different? :technologist:
 ### Spring Semester of 2023 - Research/Competition Project
 **Description:** In this study, we examined the effect of companies’ layoff announcements on the stock market via the event study methodology. We also analysed the market reaction differences between tech and non-tech sectors. We found that, despite adverse market conditions, the stocks of the companies that laid off workers had positive cumulated average abnormal returns. We also find a statistically significant difference between the stock market reaction of the tech and the non-tech sectors. We concluded that layoffs can result in positive abnormal returns for a company’s stock given that it has a cost-efficiency-enhancing purpose, and it can also vary depending on the human resource necessity of the given industry the company is functioning in.
