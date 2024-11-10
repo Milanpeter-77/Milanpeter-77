@@ -17,15 +17,6 @@ The projects in my portfolio can be classified into five groups:
 
 
 # My Projects
-## How would you forecast the effects of climate change on agricultural businesses? :corn:
-### April of 2023 - Competition Project
-**Description:** The task involved supporting an American credit institution in assessing the climate risk of its agricultural investments by predicting crop yields in Minnesota. Our objective was to develop a model that forecasts potential losses in productivity due to climate change, focusing on three crops: corn, oats, and soybeans. We utilized historical crop yield and weather data, aggregated and cleaned the datasets, and built several linear multivariate OLS regression models of increasing complexity. The final model selected was a transformed linear regression, which provided reliable predictions of future crop yields, enabling the bank to make informed decisions regarding loan risk assessments.
-
-**Methodologies:** Data Understanding and Preparation (crop yield and weather data), Geospatial Data, Multiple Linear Multivariate OLS Regression Models, Model Evaluation, Prediction and Forecasting
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challange)
 ## What Drives Car Insurance Offer Conversions? :car:
 ### Fall Semester of 2023 - Competition/Coursework Project
 **Description:** In this analysis, the task was to identify the characteristics of car insurance offers that are most likely to be converted into contracts for AXA Belgium. This involved analyzing a dataset of 44,928 observations and 22 variables related to customer, car, and broker characteristics. The goal was to develop a predictive model that could predict the probability of conversion, providing insights to improve the offers and enhance conversion rates through better understanding of customer profiles and offer characteristics.
@@ -35,6 +26,15 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** Python
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
+## How would you forecast the effects of climate change on agricultural businesses? :corn:
+### April of 2023 - Competition Project
+**Description:** The task involved supporting an American credit institution in assessing the climate risk of its agricultural investments by predicting crop yields in Minnesota. Our objective was to develop a model that forecasts potential losses in productivity due to climate change, focusing on three crops: corn, oats, and soybeans. We utilized historical crop yield and weather data, aggregated and cleaned the datasets, and built several linear multivariate OLS regression models of increasing complexity. The final model selected was a transformed linear regression, which provided reliable predictions of future crop yields, enabling the bank to make informed decisions regarding loan risk assessments.
+
+**Methodologies:** Data Understanding and Preparation (crop yield and weather data), Geospatial Data, Multiple Linear Multivariate OLS Regression Models, Model Evaluation, Prediction and Forecasting
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challange)
 ## Do Monetary Policy Decisions Significantly Influence the Hungarian Forint Exchange Rate? :bank:
 ### Spring Semester of 2023 - Research Project
 **Description:** My thesis investigates how monetary policy decisions by the National Bank of Hungary (MNB) influence the exchange rate of the Hungarian forint, especially in the short term. Following the end of the MNB’s extensive tightening cycle in 2022, the forint fell sharply, sparking public and media attention. This piqued my curiosity, motivating me to explore whether such monetary interventions have a significant effect on the exchange rate. My findings reveal that, in the short term, monetary policy decisions do not significantly impact the exchange rate, supporting my hypothesis. This conclusion aligns with existing literature, suggesting that factors beyond monetary policy also play a role in influencing the forint’s value.
@@ -62,7 +62,15 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** R
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Coursework-Yacht-Pricing)
+## Whas makes the Airbnb's popular in Vienna? :house:
+### Fall Semester of 2022 - Coursework Project
+**Description:** This task involved analyzing a dataset of Airbnb rentals in Vienna to explore the factors driving a rental's popularity. Using descriptive statistics and linear regression modeling in Stata, I assessed variables such as host characteristics, property features, and listing attributes to determine their impact on the number of reviews and ratings, which I defined as a measure of popularity. The goal was to build a model that explains what made certain listings more popular among guests.
 
+**Methodologies:**
+
+**Languages:** Stata
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Coursework-Vienna-Airbnb)
 
 
 
