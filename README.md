@@ -17,6 +17,24 @@ The projects in my portfolio can be classified into five groups:
 
 
 # My Projects
+## Do regional disparities within certain European countries exhibit significant and consistent patterns in specific directions? :european_union:
+### 2024/2025 - Personal Project
+**Description:** In this ongoing project, I aim to visualize the Real GDP across regions in each European country at various levels. My focus is to explore whether there are distinct regional development patterns, (for example,the western part of a country being more developed than the eastern part) and how these patterns change over time.
+
+**Methodologies:** Data Visualization On Maps, Economic Analysis, Linear Regression
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Regional-Economic-Disparity)
+## How does the Hungarian Foreign Exchange Market reacts to the interest rate increases? :coin:
+### Spring Semester of 2024 - Research Project
+**Description:** In my thesis, I investigated the effects of interest rate increases on the Hungarian forint’s exchange rate amid supply-side inflation in Europe. Using an event study methodology, I analyzed whether these monetary policy measures significantly impacted the forint’s value relative to a basket of key currencies. My research hypothesis suggested that, during this unique inflationary period, interest rate hikes had minimal influence on exchange rates, potentially signaling the need for alternative approaches to managing inflation. The study aimed to provide insights into the limitations of traditional monetary policy tools in atypical economic conditions.
+
+**Methodologies:** Event Study Design, Return Calculation Using Interest Rate Parity, Data Visualization and Analysis
+
+**Languages:** R
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Foreign-Exchange-Market)
 ## What Drives Car Insurance Offer Conversions? :car:
 ### Fall Semester of 2023 - Competition/Coursework Project
 **Description:** In this analysis, the task was to identify the characteristics of car insurance offers that are most likely to be converted into contracts for AXA Belgium. This involved analyzing a dataset of 44,928 observations and 22 variables related to customer, car, and broker characteristics. The goal was to develop a predictive model that could predict the probability of conversion, providing insights to improve the offers and enhance conversion rates through better understanding of customer profiles and offer characteristics.
@@ -35,7 +53,7 @@ The projects in my portfolio can be classified into five groups:
 **Languages:** R
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challange)
-## Do Monetary Policy Decisions Significantly Influence the Hungarian Forint Exchange Rate? :bank:
+## Do monetary policy decisions influence the Hungarian forint exchange rate? :bank:
 ### Spring Semester of 2023 - Research Project
 **Description:** My thesis investigates how monetary policy decisions by the National Bank of Hungary (MNB) influence the exchange rate of the Hungarian forint, especially in the short term. Following the end of the MNB’s extensive tightening cycle in 2022, the forint fell sharply, sparking public and media attention. This piqued my curiosity, motivating me to explore whether such monetary interventions have a significant effect on the exchange rate. My findings reveal that, in the short term, monetary policy decisions do not significantly impact the exchange rate, supporting my hypothesis. This conclusion aligns with existing literature, suggesting that factors beyond monetary policy also play a role in influencing the forint’s value.
 
@@ -66,7 +84,7 @@ The projects in my portfolio can be classified into five groups:
 ### Fall Semester of 2022 - Coursework Project
 **Description:** This task involved analyzing a dataset of Airbnb rentals in Vienna to explore the factors driving a rental's popularity. Using descriptive statistics and linear regression modeling in Stata, I assessed variables such as host characteristics, property features, and listing attributes to determine their impact on the number of reviews and ratings, which I defined as a measure of popularity. The goal was to build a model that explains what made certain listings more popular among guests.
 
-**Methodologies:**
+**Methodologies:** Descriptive Statistics, Correlation Analysis, Linear Regression Modeling, Model Diagnostics and Validation, Comparative Analysis
 
 **Languages:** Stata
 
