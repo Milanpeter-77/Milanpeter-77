@@ -15,6 +15,18 @@ The projects in my portfolio can be classified into four groups:
 
 
 # My Projects
+
+
+
+## Forecasting USD/JPY Exchange Rates 💱  
+### 2025 - Personal Project  
+**Description:** In this project, I aimed to forecast the **US Dollar / Japanese Yen (USD/JPY)** exchange rate using a combination of econometric and machine learning models. This project investigates how effectively these approaches can predict exchange rates, given the inherent complexity and volatility of FX markets. The focus is on integrating macroeconomic indicators from both the US and Japan, performing detailed data exploration and visualization, and presenting results in a clear, insightful manner. Throughout the project, I explore the strengths and limitations of different modeling techniques in handling time series data and financial market dynamics.  
+
+**Methodologies:** Time Series Analysis, Econometric Modeling, Machine Learning, Data Visualization 
+
+**Languages:** Python  
+
+[**GitHub Repository**](https://github.com/Milanpeter-77/Personal-FX-Forecasting)
 ## Do regional disparities within certain European countries exhibit significant and consistent patterns in specific directions? :european_union:
 ### 2024/2025 - Personal Project
 **Description:** In this ongoing project, I aim to visualize the Real GDP across regions in each European country at various levels. My focus is to explore whether there are distinct regional development patterns, (for example,the western part of a country being more developed than the eastern part) and how these patterns change over time.
