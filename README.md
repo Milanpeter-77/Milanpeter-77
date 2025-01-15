@@ -16,15 +16,22 @@ The projects in my portfolio can be classified into four groups:
 
 # My Projects
 
+## Value at Risk (VaR) Computation 📉
+### 2025 - Personal Project
+**Description:** This project focuses on calculating Value at Risk (VaR) for stock returns, a key risk management metric. VaR quantifies the potential loss on an investment within a specific timeframe and confidence level. Using historical stock data retrieved from Yahoo Finance, I implemented and compared three methods: Historical, Variance-Covariance, and Monte Carlo simulations. The project explores each method's assumptions, strengths, and limitations, presenting results with clear visualizations and explanations.
 
+**Methodologies:** Risk Analysis, Statistical Modeling, Monte Carlo Simulation, Data Visualization
 
-## Forecasting USD/JPY Exchange Rates 💱  
-### 2025 - Personal Project  
-**Description:** In this project, I aimed to forecast the **US Dollar / Japanese Yen (USD/JPY)** exchange rate using a combination of econometric and machine learning models. This project investigates how effectively these approaches can predict exchange rates, given the inherent complexity and volatility of FX markets. The focus is on integrating macroeconomic indicators from both the US and Japan, performing detailed data exploration and visualization, and presenting results in a clear, insightful manner. Throughout the project, I explore the strengths and limitations of different modeling techniques in handling time series data and financial market dynamics.  
+**Languages:** Python (Jupyter Notebook)
 
-**Methodologies:** Time Series Analysis, Econometric Modeling, Machine Learning, Data Visualization 
+[**GitHub Repository**](https://github.com/Milanpeter-77/Personal-VaR-on-Stock-Returns)
+## Forecasting USD/JPY Exchange Rates 💱
+### 2025 - Personal Project
+**Description:** In this project, I aimed to forecast the **US Dollar / Japanese Yen (USD/JPY)** exchange rate using a combination of econometric and machine learning models. This project investigates how effectively these approaches can predict exchange rates, given the inherent complexity and volatility of FX markets. The focus is on integrating macroeconomic indicators from both the US and Japan, performing detailed data exploration and visualization, and presenting results in a clear, insightful manner. Throughout the project, I explore the strengths and limitations of different modeling techniques in handling time series data and financial market dynamics.
 
-**Languages:** Python  
+**Methodologies:** Time Series Analysis, Econometric Modeling, Machine Learning, Histogram
+
+**Languages:** Python
 
 [**GitHub Repository**](https://github.com/Milanpeter-77/Personal-FX-Forecasting)
 ## Do regional disparities within certain European countries exhibit significant and consistent patterns in specific directions? :european_union:
