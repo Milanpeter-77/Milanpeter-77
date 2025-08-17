@@ -1,112 +1,30 @@
-# Data Science Portfolio
-Data analysis has captivated me from the very start, with its unique ability to transform raw information into actionable insights using applied mathematical methods. What excites me most about this field is the potential to make nicely visualised, data-driven decisions that can drive meaningful change. From building complex economic forecast models to exploring new ways of classifications, I’m driven by the challenge of making sense of data in different ways.
+# Bumpy Road to Becoming a Quant
 
-In this portfolio, I’m proud to present projects that showcase my skills and dedication to data science. You'll find a range of models I've developed - either by myself of with teams. Each project has helped me sharpen my technical expertise and push the boundaries of what data science can achieve. This portfolio is a reflection of my ongoing commitment to learning and my enthusiasm for driving real-world value through data. 
+> *TL;DR: my journey from reluctantly learning C for a high school final exam to embracing R and Python for econometrics, finance, and machine learning, leading up to professional applications of coding in banking and stock market analysis.*
 
-The projects in my portfolio can be classified into four groups:
+##
+My experience with coding is a bit ambiguous and sometimes even controversial. Back in 2020, I was about to leave my secondary school and take my final exams. One of the exam subjects was IT, which consisted of solving tasks in text, table, and slide editing software (basically in Microsoft Office programs) alongside a chosen programming language. This was part of the advanced level exam I took. I liked IT-related matters (i.e., building and configuring PCs for myself, setting the router as a request of my family, etc.), and I think I was a bit better at it than a common user, but programming just never attracted me. However, I had to learn it (against my will to some extent) for this exam. I felt that I had the greatest chance to achieve the best scores with this IT final exam, as it was needed for university application. “If I need to, I want to learn how to code in `Python` – a versatile, easy-to-learn (kind of) programming language.” That’s what I thought, because that was the only language I knew. On the advice of my teacher, we (he) decided I should learn `C` as “I can build my knowledge on it later.” With his help and guidance, I was able to learn it at the required level; I got to understand the basic concepts and purpose of programming in only 3 nerve-wracking months. As a result, I achieved almost the highest score on the final exam, and then I swore that I would never touch any codes in my life after this – aged like fine wine. The repository containing the exam task and solution can be accessed [here](https://github.com/Milanpeter-77/Coursework-Exam-Task-Meteorology), although only in Hungarian (which is a far more difficult language than `C` itself).
 
-:page_facing_up: **Research:** Universities in Hungary have a renowned scientific event called Scientific Students’ Associations Conference (SSA, or TDK in Hungarian). It is an annual contest that offers an open platform for the works of students seeking to gain academic knowledge beyond the regular curriculum. Basically, your task is writing a research paper in an academic quality, then - if you are selected - you have to present your work to a professional jury. Thanks to this opportunity, I could conduct more quantitative research, which of course required coding as well.
+##
+I kept my promise of avoiding any programming at the university up until the 4th semester. I really enjoyed taking my two mandatory statistics (descriptive and mathematical/inferential) courses, so I decided to choose econometrics as my elective course. It was advertised as a “sequel of statistics”; therefore, the decision was somewhat evident. I didn’t know that econometrics required more code work than `SAS` can provide. When I saw the syllabus, I felt a little discomfort. It brought up some old memories, seeing that the programming language was a single letter again – it was `R`. However, during the first two years at university, I became more open-minded to new knowledge, so I took the course. To my surprise, the econometrics professor was a well-recognised biostatistician and an enthusiastic `R` programmer. For the first couple of weeks, he only taught us programming, syntaxes, and pure understanding of how `R` works. The course could have been described as “studying `R` accompanied by econometrics” rather than “studying econometrics accompanied by `R`”. During the semester, he could actually teach us the `R` fundamentals. Our task, as a small group of students, was to find an econometric problem and dataset that can be used for prediction and explanatory modelling. We selected a dataset consisting of yacht prices and specifications, which raises the issue of mutual causality – for example, are larger yachts more expensive because of their size, or are more expensive yachts larger because they tend to be higher-end? The [code](https://github.com/Milanpeter-77/Coursework-Yacht-Pricing) is kind of half-baked and unorganised, but this is often the result of a group work where not every member has the same attitude. I cannot blame anyone, because at this point, I still didn’t really like `R` or coding itself. If anything, it was data analysis that started to draw my attention. I “accepted” the fact that for more complex data analysis, some sort of programming is required.
 
-:school: **Coursework:** During my academic years, I took several courses that taught me how to analyze data and write scripts in various programming languages. I had to work on these projects either by myself or with a group of other students. That is why it taught me not only hard skills but also communication and presentation skills.
+##
+The following semester, I focused on taking elective courses related to data analysis. The first one was called “Introduction to Data Analysis in Scientific Practice”. Despite its long name, it was a one-week-long intensive course held before the semester started. Here I could finally understand why these more complex analyses need to be done using programming. For transparency, easy follow-up, recreating, and modifying the project – especially if it is part of teamwork. On this course, we learnt to use a new language and statistical software: `Stata`. Compared to `R`, it was more streamlined and oversimplified. “It is mainly used by government institutions and researchers, who don’t really like coding”, said my professor. It explains a lot. I used to like it, but I recognised its limitations and decided to direct my time and effort to learn coding in `R`. (That is to say, `Stata` being a paid software definitely didn’t help.) During the course, we gained some theoretical knowledge, then we could work on our research project individually. This task involved analysing a dataset of Airbnb rentals in Vienna to explore the factors driving a rental’s popularity. My goal was to build a model that explains what made certain listings more popular among guests. You can see the code [here](https://github.com/Milanpeter-77/Coursework-Vienna-Airbnb), but beware, the comments are in Hungarian!
 
-:trophy: **Competitions:** Participating in data science competitions has been a cornerstone of my learning journey. These challenged me to apply theoretical knowledge in real-world scenarios under tight deadlines. Through these experiences, I refined my coding, problem-solving, and teamwork skills. Each competition taught me new techniques, from algorithm optimization to innovative data visualization approaches, further enhancing my analytical toolkit.
+##
+The second course was the “Introduction to Financial Data Analysis.” I felt that I had way too few finance-related courses during my bachelor years, so it was a lucky coincidence being able to study both finance and data analysis. This course brought about some breakthroughs regarding my orientation in the labour market, or at least the direction I wanted to focus on. I could learn about how to implement coding on financial data, mainly on time series data. In classes, we could choose our preferred programming language, and of course we picked the one we knew – `R`. The course’s final project was a team assignment. I think we selected an intriguing topic and conducted it very well, because our professor recommended extending it to a research paper. So, we did that, and an [event study analysis on the stock market reaction](https://github.com/Milanpeter-77/Research-Mass-Layoffs-Event-Study) was born. I gained a lot of knowledge of `R` during this work, from data manipulation to visualisation. With this new knowledge and the learnt methods and tools, a new world of opportunities opened before me. I wanted to work on many projects like that – and I still do. In the following two years, I wrote two other papers as well. [One](https://github.com/Milanpeter-77/Research-Monetary-Policy) investigated the impact of monetary policy decisions on the exchange rate market, while the [other one](https://github.com/Milanpeter-77/Research-Foreign-Exchange-Market) was a follow-up extension of it. Both papers required coding and modelling.
 
-:bulb: **Personal:** Outside formal settings, I enjoy exploring data science and modeling through personal projects. These often focus on topics that spark my curiosity as well as my creativity. These self-directed projects allow me to experiment with new methods and tools, further building my expertise in data science and quantitative analysis.
+##
+Later that year, we got an opportunity to participate in a competition held by Morgan Stanley Hungary. This was a great way to experience what kind of work they actually do out there in the market. The first round’s task was to [forecast the effects of climate change on agricultural crop yields](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challenge). We solved it, using `R` of course, and got into the final round. We would have 24 hours to solve an option pricing problem of the derivatives of these particular agricultural crop yields. Honestly, we got a serious headache and failed to solve it. It was a hard way to acknowledge that I still have to learn a lot about programming and its financial applications.
 
+##
+Next semester spent abroad on Erasmus exchange – many new opportunities that I wanted to grab. The most important course I took was “Machine Learning”, moreover, at master level. My first encounter with `Python`. We got a handful of learning material for theories as well as for coding. Finally, I felt that “I want to do this in my professional life”. It was a result of a supporting environment at the university and their progressive teaching methods. We could learn from professionals and work together with institutions. The final project was a competition to classify which customer profiles are more likely to convert offers into [car insurance contracts](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge). Unfortunately, my team did not win. (Which was especially disappointing, as the award would have been a ticket to Tomorrowland.) I personally, however, won the chance to be introduced in the world of `Python`. I realised why is it among the most used and widespread programming language among (financial) corporations. Even if it was mandatory to use and learn it, it was very useful to me.
 
-# My Projects
+##
+Back to Hungary to my final semester, time for doing my required internship. I landed a job at a commercial bank as a Credit Risk Modelling Intern. Finally, using programming at a real working environment – except for I had to use `SQL` and `SAS`. I knew the most basic syntaxes and purposes of `SQL`, but I’ve never actually worked with it; not to mention `SAS`. During these couple of months working here, my only “coding” task was to modify some input information (e.g., dates). It would have not attracted me anyways, because of their structure, user interface and performance. I know that these factors can be changed, but that didn’t help me in this situation. My experience with `SQL` and `SAS` is the shortest one. On the other hand, it was exciting to learn about how credit risk classification works in practice. Of course, the tasks I was working on are confidential and the property of the bank, therefore I decided to build my own [analysis](https://github.com/Milanpeter-77/Project-Credit-Risk-Analysis). It is to show my knowledge that I have about credit risk and to practice coding in `Python`.
 
-## Value at Risk (VaR) Computation 📉
-### 2025 - Personal Project
-**Description:** This project focuses on calculating Value at Risk (VaR) for stock returns, a key risk management metric. VaR quantifies the potential loss on an investment within a specific timeframe and confidence level. Using historical stock data retrieved from Yahoo Finance, I implemented and compared three methods: Historical, Variance-Covariance, and Monte Carlo simulations. The project explores each method's assumptions, strengths, and limitations, presenting results with clear visualizations and explanations.
+##
+The next thing I realise is that my internship is finished, my bachelor years are finished, I have my diploma and I’m out on the labour market. After a (fortunately) short searching, I landed a junior role at another bank – this is the 3rd one so far. To be more precise, it is an investment bank, and I am a Stock Market Analyst now. I honestly did not know what to expect for this job as I have never even thought of working with anything related to the stock market. This role itself did not require heavy amount of coding, rather relied on qualitative analysis. My team was however open-minded, and I could push through my ideas of research. Which included more than calculating only in `Excel`. One of my first task was to measure our analyst team’s past trade recommendations. As a result, only percentage returns were expected, but I wanted to show more. Therefore, I created a tailored made backtesting script (initially in `R`) that presents the results visually too. An extended and modified version of this (rewritten in `Python`) can be found in [this repository](https://github.com/Milanpeter-77/Project-Trade-Recommendation-Backtesting-System). This is also intended to demonstrate my knowledge of basic trading orders and the algorithms behind them. As a new member of the team, of course, I was responsible for recommending stocks to invest too. For that I tried to apply my previously gained knowledge and develop some kind of machine learning model. This work is also the property of the company, so I cannot share it. This is why I created a very similar, and rather demonstrative [asset classifying model and dashboard](https://github.com/Milanpeter-77/Project-Asset-Classification-Dashboard).
 
-**Methodologies:** Risk Analysis, Statistical Modeling, Monte Carlo Simulation, Data Visualization
-
-**Languages:** Python (Jupyter Notebook)
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Personal-VaR-on-Stock-Returns)
-## Forecasting USD/JPY Exchange Rates 💱
-### 2025 - Personal Project
-**Description:** In this project, I aimed to forecast the **US Dollar / Japanese Yen (USD/JPY)** exchange rate using a combination of econometric and machine learning models. This project investigates how effectively these approaches can predict exchange rates, given the inherent complexity and volatility of FX markets. The focus is on integrating macroeconomic indicators from both the US and Japan, performing detailed data exploration and visualization, and presenting results in a clear, insightful manner. Throughout the project, I explore the strengths and limitations of different modeling techniques in handling time series data and financial market dynamics.
-
-**Methodologies:** Time Series Analysis, Econometric Modeling, Machine Learning, Histogram
-
-**Languages:** Python
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Personal-FX-Forecasting)
-## Do regional disparities within certain European countries exhibit significant and consistent patterns in specific directions? :european_union:
-### 2024/2025 - Personal Project
-**Description:** In this ongoing project, I aim to visualize the Real GDP across regions in each European country at various levels. My focus is to explore whether there are distinct regional development patterns, (for example,the western part of a country being more developed than the eastern part) and how these patterns change over time.
-
-**Methodologies:** Data Visualization On Maps, Economic Analysis, Linear Regression
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Regional-Economic-Disparity)
-## How does the Hungarian Foreign Exchange Market reacts to the interest rate increases? :coin:
-### Spring Semester of 2024 - Research Project
-**Description:** In my thesis, I investigated the effects of interest rate increases on the Hungarian forint’s exchange rate amid supply-side inflation in Europe. Using an event study methodology, I analyzed whether these monetary policy measures significantly impacted the forint’s value relative to a basket of key currencies. My research hypothesis suggested that, during this unique inflationary period, interest rate hikes had minimal influence on exchange rates, potentially signaling the need for alternative approaches to managing inflation. The study aimed to provide insights into the limitations of traditional monetary policy tools in atypical economic conditions.
-
-**Methodologies:** Event Study Design, Return Calculation Using Interest Rate Parity, Data Visualization and Analysis
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Foreign-Exchange-Market)
-## What Drives Car Insurance Offer Conversions? :car:
-### Fall Semester of 2023 - Competition/Coursework Project
-**Description:** In this analysis, the task was to identify the characteristics of car insurance offers that are most likely to be converted into contracts for AXA Belgium. This involved analyzing a dataset of 44,928 observations and 22 variables related to customer, car, and broker characteristics. The goal was to develop a predictive model that could predict the probability of conversion, providing insights to improve the offers and enhance conversion rates through better understanding of customer profiles and offer characteristics.
-
-**Methodologies:** Machine Learning, Data Preprocessing, Model Selection and Evaluation (Logistic Regression, Decision Trees, Random Forests), Cross-Validation
-
-**Languages:** Python
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
-## How would you forecast the effects of climate change on agricultural businesses? :corn:
-### April of 2023 - Competition Project
-**Description:** The task involved supporting an American credit institution in assessing the climate risk of its agricultural investments by predicting crop yields in Minnesota. Our objective was to develop a model that forecasts potential losses in productivity due to climate change, focusing on three crops: corn, oats, and soybeans. We utilized historical crop yield and weather data, aggregated and cleaned the datasets, and built several linear multivariate OLS regression models of increasing complexity. The final model selected was a transformed linear regression, which provided reliable predictions of future crop yields, enabling the bank to make informed decisions regarding loan risk assessments.
-
-**Methodologies:** Data Understanding and Preparation (crop yield and weather data), Geospatial Data, Multiple Linear Multivariate OLS Regression Models, Model Evaluation, Prediction and Forecasting
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-Morgan-Stanley-Quant-Challange)
-## Do monetary policy decisions influence the Hungarian forint exchange rate? :bank:
-### Spring Semester of 2023 - Research Project
-**Description:** My thesis investigates how monetary policy decisions by the National Bank of Hungary (MNB) influence the exchange rate of the Hungarian forint, especially in the short term. Following the end of the MNB’s extensive tightening cycle in 2022, the forint fell sharply, sparking public and media attention. This piqued my curiosity, motivating me to explore whether such monetary interventions have a significant effect on the exchange rate. My findings reveal that, in the short term, monetary policy decisions do not significantly impact the exchange rate, supporting my hypothesis. This conclusion aligns with existing literature, suggesting that factors beyond monetary policy also play a role in influencing the forint’s value.
-
-**Methodologies:** Vector Autoregression (VAR) Models, Statistical Hypothesis Testing (t-tests), Monetary Transmission Mechanism
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Competition-AXA-Data-Science-Challenge)
-## What makes the 2022 tech layoffs different? :technologist:
-### Spring Semester of 2023 - Research/Competition Project
-**Description:** In this study, we examined the effect of companies’ layoff announcements on the stock market via the event study methodology. We also analysed the market reaction differences between tech and non-tech sectors. We found that, despite adverse market conditions, the stocks of the companies that laid off workers had positive cumulated average abnormal returns. We also find a statistically significant difference between the stock market reaction of the tech and the non-tech sectors. We concluded that layoffs can result in positive abnormal returns for a company’s stock given that it has a cost-efficiency-enhancing purpose, and it can also vary depending on the human resource necessity of the given industry the company is functioning in.
-
-**Methodologies:** Event Study Analysis, Event and Estimation Windows, Abnormal Return Calculation, Statistical Testing
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Research-Mass-Layoffs-Event-Study)
-## What factors play significant roles during yact pricing? :motor_boat:
-### Fall Semester of 2022 - Coursework Project
-**Description:** The task involved analyzing yacht and motorboat pricing using the "yacht_pricing" dataset. The goal was to predict the price in euros based on various characteristics, including boat type, year built, condition, dimensions (length, width, depth), displacement, number of cabins and beds, fuel capacity, engine hours, and recent views. This analysis aimed to determine which factors significantly impact yacht prices, adjusting the model to address multicollinearity issues, and refining it through diagnostic tests and specification adjustments.
-
-**Methodologies:** Exploratory Data Analysis, Ordinary Least Squares (OLS) Regression, Model Diagnostics and Specification Adjustments
-
-**Languages:** R
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Coursework-Yacht-Pricing)
-## Whas makes the Airbnb's popular in Vienna? :house:
-### Fall Semester of 2022 - Coursework Project
-**Description:** This task involved analyzing a dataset of Airbnb rentals in Vienna to explore the factors driving a rental's popularity. Using descriptive statistics and linear regression modeling in Stata, I assessed variables such as host characteristics, property features, and listing attributes to determine their impact on the number of reviews and ratings, which I defined as a measure of popularity. The goal was to build a model that explains what made certain listings more popular among guests.
-
-**Methodologies:** Descriptive Statistics, Correlation Analysis, Linear Regression Modeling, Model Diagnostics and Validation, Comparative Analysis
-
-**Languages:** Stata
-
-[**GitHub Repository**](https://github.com/Milanpeter-77/Coursework-Vienna-Airbnb)
-
-
-
-
+##
+While working at the equity analyst team, I began to be more and more interested in the quantitative side of investing. I started to get to know how and in what ways analyst use statistics, econometrics and machine learning for investing in different periods. In short, I discovered what *Quants* do in a broad term. I felt – as I still do – that I’m only scratching the surface with my models and methods. Here came the realisation: I want to deepen this base knowledge and do a master’s degree. After the application, I was admitted to VU Amsterdam’s Finance Master (with the Honour Program of Quantitative Finance).Right now, I am preparing for the semester, using `Python` for each of my new projects.
